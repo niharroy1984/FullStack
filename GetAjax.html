@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        Ajax Demo
+        <button onclick="fetchdatafromserver()">
+            click to trigger ajax get request
+        </button>
+        <div id="myhtmlcomponent"></div>
+        <script>
+            function fetchdatafromserver(){
+                var myhttprequestobject = new XMLHttpRequest();
+                myhttprequestobject.onreadystatechange = function(){
+//state , statuscode = 404,200,201,500 from google   
+                    if(this.readystate==0 && this.status==200){
+                        alert('Response has reached to client')
+                        alert('this.responseText')
+                        //document.getElementById("myhtmlcomponent").innerHTML="hello"
+                        //document.getElementById("myhtmlcomponent").innerHTML=this.responseText;
+                    }
+                    document.getElementById("myhtmlcomponent").innerHTML=this.responseText;
+                };
+                //action-url, method=get,post 
+                myhttprequestobject.open("GET","http://jsonplaceholder.typicode.com/todos/1",true);
+                myhttprequestobject.send();
+            }
+        </script>
+    </body>
+
+</html>

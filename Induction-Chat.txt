@@ -1,0 +1,207 @@
+Induction: 8/28
+
+https://captivateprime.adobe.com/cognizantiiht, Pass - Fullstack2018, Userid - nihar.roychoudhury@cognizant.com
+
+Sameer: hi everyone we'll wait for more participants & start shortly.
+
+Sameer: https://captivateprime.adobe.com/cognizantiiht
+
+Sameer: https://labs.iiht.tech
+
+Sameer: pass@word1 -> Fullstack2018
+
+Vj: cognizant email id
+
+Sameer: run-> mstsc
+
+viswanathan 2: what is the app name?
+
+Vj: app name ?
+
+Sameer: adobe captivate prime - learning platfom
+
+Sameer: adobe connect - session tool
+
+Vj: FTJB016
+
+
+Day 1: 8/30
+
+
+https://github.com/java2786/FTJB016
+
+Vijay AnandKannadasan _: aware about few things..
+
+Vijay AnandKannadasan _: Java, Maven
+
+Vijay AnandKannadasan _: HTML..
+
+Sumit,Kumar _: Have basic knowledge about some such as Java,  Maven but not all
+
+Phani Kanth Daliparthi _: i am not a front end developer...so fresher for all the java script and Angular
+
+Dharini,Dorairaj _: having knowledge in java
+
+Viswanathan Ramachandran _: I have basic knowledge of core java, css, jquery etc. I would like to know abt spring, angular js, automated build and deployment tools etc
+
+Dharini,Dorairaj _: spring core
+
+Naresh: Hi I have basic understanding about all the sessions listed
+
+Phani Kanth Daliparthi _: but my work includes, Maven, Java and Webservices
+
+Abhisek Das _: I'm new to this
+
+Dharini,Dorairaj _: want to learn angular, 
+
+Sudip Jana _: am not very familier with html5, css, bootstrap
+
+IIHT Techademy 3: https://github.com/java2786/FTJB016
+
+Sasatte,Prashant Baburao _: element is set of tags with content
+
+Sumit,Kumar _: What is emmet
+
+Sumit,Kumar _: is it a plugin
+
+IIHT Techademy 3: https://code.visualstudio.com/
+
+IIHT Techademy 3: https://github.com/java2786/FTJB016
+
+Keshav: It will be available on your portal. All the recordings are auto uploaded to the MyLearning portal
+
+Keshav: in the mentor led sessions tab
+
+
+
+Day2 : 8/31
+
+ARUN: https://github.com/java2786/FTJB016
+
+
+Day3 : 9/4
+
+IIHT Techademy: https://www.dropbox.com/sh/x0wu5zex2jneoqh/AADVld_jLFzazwXsqh0R2qC3a?dl=0
+
+
+Day7 : 9/17
+
+Ajax, SPa, DOM
+
+IIHT Techademy: Visual studio code
+
+IIHT Techademy: Node
+
+IIHT Techademy: NPM
+
+IIHT Techademy: Angular CLI
+
+IIHT Techademy: Typescript
+
+IIHT Techademy: node -v
+
+IIHT Techademy: npm -v
+
+IIHT Techademy: npm install -g @angular/cli
+
+IIHT Techademy: angular cli above command
+
+IIHT Techademy: angualr verison 
+
+IIHT Techademy: ng -v
+
+Babu Y V, Naresh  _: what is node?.
+
+Babu Y V, Naresh  _: why do we need node for angular js
+
+IIHT Techademy: yarn
+
+IIHT Techademy: npm
+
+Babu Y V, Naresh  _: thanks!..
+
+IIHT Techademy: brew install node   - MAC
+
+IIHT Techademy: node+npm
+
+IIHT Techademy: typescript
+
+IIHT Techademy: npm install -g typescript
+
+IIHT Techademy: tsc -v
+
+Babu Y V, Naresh  _: npm install -g @typescript?..
+
+Babu Y V, Naresh  _: for angualr we gave @
+
+IIHT Techademy: npm install -g typescript
+
+Babu Y V, Naresh _: ok thx..
+
+IIHT Techademy: npm install -g nameofpackage
+
+Sudip Jana _: if node installed, how to upgrade
+
+Krishnan, Rajasekar _: we need to run this script after we install node?
+
+Sudip Jana _: node
+
+IIHT Techademy: order
+
+IIHT Techademy: VS CodeNodeNPMAngular CLITypescripts
+
+IIHT Techademy: 1.vs code
+
+IIHT Techademy: 2. node
+
+IIHT Techademy: 3. npm
+
+IIHT Techademy: 4.angualr cli
+
+IIHT Techademy: 5. typescript
+
+Krishnan, Rajasekar _: npm will come along with node? 
+
+Krishnan, Rajasekar _: Thanks.. for angular cli and typescript, we just need to run the command so that it will install the package automatically?
+
+Krishnan, Rajasekar _: Thanks
+
+Sudip Jana _: brew install node ?
+
+Sudip Jana _: saying brew not found
+
+Sudip Jana _: yes, I will
+
+Krishnan, Rajasekar _: i am getting the below error when try to run the install of angular cli in node
+
+Krishnan, Rajasekar _: npm install -g @angular/clinpm should be run outside of the node repl, in your normal shell.(Press Control-D to exit.)
+
+Krishnan, Rajasekar _: Windows
+
+Krishnan, Rajasekar _: ok. i will try in command prompt
+
+IIHT Techademy: tsc
+
+IIHT Techademy: ng
+
+IIHT Techademy: node package manager- npm
+
+IIHT Techademy: angualr command- ng
+
+IIHT Techademy: typescript- tsc
+
+IIHT Techademy: node
+
+Viraj Shah: what is teminal? is it console for VSCODE?
+
+Sasatte,Prashant Baburao _: can we use node command on ts file?
+
+Babu Y V, Naresh  _: if we know javascript do we need to learn typescript?..
+
+Viraj Shah: ok.. is it same as cmd in window?
+
+
+
+9/20:
+
+https://github.com/shdb1
