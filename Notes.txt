@@ -1,0 +1,12 @@
+IIHT Techademy: node package manager- npm
+
+IIHT Techademy: angualr command- ng
+
+IIHT Techademy: typescript- tsc
+
+PS D:\Java-FullStack\Code> tsc Angular-session1.ts
+PS D:\Java-FullStack\Code> node Angular-session1.js
+Welcometo Java
+Welcometo Java
+1
+PS D:\Java-FullStack\Code>
